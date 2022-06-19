@@ -11,7 +11,7 @@ import os
 import re
 
 pName = 'XenoXN'
-pVersion = '1.1.0'
+pVersion = '1.1.1'
 pUrl = 'https://raw.githubusercontent.com/xenopbia/Phbot-Plugins/main/XenoXN.py'
 
 # ______________________________ Initializing ______________________________ #
